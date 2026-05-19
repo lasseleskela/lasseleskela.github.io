@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: ../docs/en
+
+website:
+  title: "Lasse Leskelä"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - href: fi/index.qmd
+        text: suomeksi
+
+format:
+  html:
+    toc: false

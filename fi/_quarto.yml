@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: ../docs/fi
+
+website:
+  title: "Lasse Leskelä"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Etusivu
+      - href: research.qmd
+        text: Tutkimus
+      - href: publications.qmd
+        text: Julkaisut
+      - href: teaching.qmd
+        text: Opetus
+    right:
+      - href: en/index.qmd
+        text: in English
+
+format:
+  html:
+    toc: false
