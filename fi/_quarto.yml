@@ -16,7 +16,7 @@ website:
       - href: teaching.qmd
         text: Opetus
     right:
-      - href: en/index.qmd
+      - href: ../fi/
         text: in English
 
 format:

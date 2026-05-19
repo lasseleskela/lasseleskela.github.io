@@ -16,7 +16,7 @@ website:
       - href: teaching.qmd
         text: Teaching
     right:
-      - href: fi/index.qmd
+      - href: ../fi/
         text: suomeksi
 
 format:
