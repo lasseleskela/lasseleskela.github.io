@@ -1,0 +1,9 @@
+---
+title: "Lasse Leskelä"
+---
+
+Professor of mathematics at Aalto University.
+
+- [Research](research.qmd)
+- [Publications](publications.qmd)
+- [Teaching](teaching.qmd)

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Lasse Leskelä",
+    "section": "",
+    "text": "Professor of mathematics at Aalto University.\n\nResearch\nPublications\nTeaching"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto create project website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "fi/index.html",
+    "href": "fi/index.html",
+    "title": "Lasse Leskelä",
+    "section": "",
+    "text": "Matematiikan professori Aalto-yliopistossa.\n\nTutkimus\nJulkaisut\nOpetus"
+  }
+]
