@@ -7,3 +7,20 @@ Matematiikan professori Aalto-yliopistossa.
 - [Tutkimus](tutkimus.qmd)
 - [Julkaisut](julkaisut.qmd)
 - [Opetus](opetus.qmd)
+
+
+::: {.columns}
+
+::: {.column width="30%"}
+
+![](/images/Leskela_Lasse.jpg){ width=100% }
+:::
+
+::: {.column width="70%"}
+
+## Yhteystiedot
+- Aalto-yliopisto
+
+:::
+
+:::
