@@ -9,15 +9,21 @@ website:
     left:
       - href: index.qmd
         text: Etusivu
-      - href: research.qmd
+      - href: tutkimus.qmd
         text: Tutkimus
-      - href: publications.qmd
+      - href: julkaisut.qmd
         text: Julkaisut
-      - href: teaching.qmd
+      - href: opetus.qmd
         text: Opetus
     right:
       - href: ../en/
-        text: in English
+        text: EN
+
+lang: fi
+
+bibliography: ../data/publications.bib
+
+csl: ../data/apa.csl
 
 format:
   html:

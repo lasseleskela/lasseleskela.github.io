@@ -13,6 +13,7 @@
 
 ## Teaching
 - Lecture notes
+  - Important delivery channel
 - Past courses
 - Current/future courses
 - Supervised DSc/MSc/BSc projects
@@ -34,4 +35,6 @@
 - Feed to social media (X/LInkedIn)?
 - Organized events, summer schools, ...
 
+## Misc writings
+- Style tips for BSc/MSc thesis writers (suomeksi and in English)
 

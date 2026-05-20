@@ -17,7 +17,7 @@ website:
         text: Teaching
     right:
       - href: ../fi/
-        text: suomeksi
+        text: FI
 
 format:
   html:
