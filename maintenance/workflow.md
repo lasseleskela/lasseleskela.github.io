@@ -10,9 +10,11 @@ quarto render fi
 
 # Publish
 
+```bash
 git add .
 git commit -m "update website"
 git push
+```
 
 
 # GitHub Pages settings
